@@ -2,5 +2,5 @@
 
 ###### My first production project ever.
 
-**🏅 Over 38.000 Downloads.**
+**🏅 Over 40.000 Downloads.**
 
